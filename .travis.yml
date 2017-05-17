@@ -5,4 +5,4 @@ python:
 # command to run tests
 script:
   - ping -c 3 ctf01.root-me.org
-  - sudo python exploit.py ctf01.root-me.org 21
+  - sudo python exploit.py 212.129.28.18 21
